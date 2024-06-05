@@ -1,0 +1,17 @@
+{
+  "os_list": [
+    {
+      "name": "Talos linux",
+      "description": "Immutable, API-driven Linux for Kubernetes.",
+      "url": "https://factory.talos.dev/image/ee21ef4a5ef808a9b7484cc0dda0f25075021691c8c09a276591eedb638ea1f9/v1.7.4/metal-arm64.raw.xz",
+      "icon": "https://github.com/rothgar/talos-rpi/blob/main/sidero-shield-40x40.png?raw=true",
+      "website": "https://talos.dev",
+      "release_date": "2024-05-30",
+      "extract_size": 1306525696,
+      "extract_sha256": "108652c5d51d9711d77167aa553c311ff9dc97a1e3193e55a480e0f1cfd01df4",
+      "image_download_size": 124124120,
+      "image_download_sha256": "bb4c892f66325bdb0a7e9f37021e5f4535c1c74e7c57e737358e15d79a80d6a6",
+      "devices": ["pi4", "cm4"]
+    }
+  ]
+}
